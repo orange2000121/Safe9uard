@@ -1,6 +1,9 @@
 # Device
-![](src/safe.png)
-![](src/ard.png)
+<p float="left">
+  <img src="src/safe.png" width="200" />
+  <img src="src/ard.png" width="200" />
+</p>
+
 # Platform
 ESP32
 # Sensors
